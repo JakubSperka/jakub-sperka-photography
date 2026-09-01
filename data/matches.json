@@ -1,5 +1,31 @@
 [
   {
+    "id": "2026-08-30-tj-sokol-medzibrod-msk-kysucke-nove-mesto",
+    "date": "2026-08-30",
+    "home": "TJ Sokol Medzibrod",
+    "away": "MŠK Kysucké Nové Mesto",
+    "score": "0:5",
+    "location": "Medzibrod",
+    "competition": "III. liga SFZ",
+    "season": "2026/2027",
+    "cover": "images/covers/medzibrod_kysucke_nove_mesto_1.jpg",
+    "ente": "https://embed.ente.com/?t=P5LQZEMSO5#88iKT1zxgTrwk866x2tKRsqXwsEjWEUsCyACEkir5UP5",
+    "note": "Fotené s objektívom Sony FE 70-200 mm f/2.8 GM OSS II"
+  },
+  {
+    "id": "2026-08-16-tj-sokol-medzibrod-msk-namestovo",
+    "date": "2026-08-16",
+    "home": "TJ Sokol Medzibrod",
+    "away": "MŠK Námestovo",
+    "score": "2:3",
+    "location": "Medzibrod",
+    "competition": "III. liga SFZ",
+    "season": "2026/2027",
+    "cover": "images/covers/cover_medzibrod_namestovo_1.jpg",
+    "ente": "https://embed.ente.com/?t=SZFEXPSZV7#E8zSK4dH7p7SgKbzKssmyAKt81daMTfxogUnZfbEXzfX",
+    "note": "Fotené s objektívom Sony FE 135 mm f/1.8 GM"
+  },
+  {
     "id": "2026-08-09-fk-34-brusno-ondrej-tj-sk-hronec",
     "date": "2026-08-09",
     "home": "FK 34 Brusno-Ondrej",
