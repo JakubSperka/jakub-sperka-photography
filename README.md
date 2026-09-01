@@ -143,3 +143,33 @@ Facebook a ďalšie sociálne siete sa v tejto verzii nezobrazujú.
 
 Na stránke O mne je tiež sekcia s informáciou o voľnom použití fotografií
 a možnosti kontaktovať autora ohľadom fotografovania zápasu.
+
+
+## Priamy odkaz na Ente album
+
+Na detaile každého zápasu sa automaticky zobrazuje tlačidlo:
+
+```text
+Otvoriť album v Ente ↗
+```
+
+Nie je potrebné pridávať ďalšiu URL do `matches.json`.
+JavaScript automaticky prevedie:
+
+```text
+https://embed.ente.com/?t=...#...
+```
+
+na:
+
+```text
+https://albums.ente.com/?t=...#...
+```
+
+Ak bude niektorý album používať inú verejnú URL, možno k zápasu voliteľne pridať:
+
+```json
+"ente_public": "https://..."
+```
+
+Táto hodnota má prednosť pred automaticky vytvoreným odkazom.
