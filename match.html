@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="sk">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Fotogaléria futbalového zápasu od Jakuba Šperku.">
+  <title>Zápas | Jakub Šperka Photography</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="container nav-wrap">
+      <a class="brand" href="index.html" aria-label="Jakub Šperka Photography">
+        <span class="brand-main">JAKUB ŠPERKA</span>
+        <span class="brand-sub">PHOTOGRAPHY</span>
+      </a>
+
+      <nav class="nav">
+        <a href="index.html" class="active">Zápasy</a>
+        <a href="about.html">O mne</a>
+      </nav>
+    </div>
+  </header>
+
+  <main class="match-page">
+    <section class="container match-header">
+      <a href="index.html" class="back-link">← Späť na zápasy</a>
+
+      <div id="match-meta" class="match-meta"></div>
+      <h1 id="match-title">Načítavam zápas…</h1>
+      <p id="match-details" class="match-details"></p>
+    </section>
+
+    <section class="container">
+      <div id="gallery-wrap" class="gallery-wrap">
+        <iframe
+          id="ente-gallery"
+          title="Ente fotogaléria"
+          loading="lazy"
+          allowfullscreen>
+        </iframe>
+      </div>
+
+      <p id="match-error" class="empty-state" hidden>
+        Zápas sa nepodarilo nájsť.
+      </p>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container footer-inner">
+      <span>Jakub Šperka Photography</span>
+      <span id="footer-year"></span>
+    </div>
+  </footer>
+
+  <script src="js/match.js"></script>
+</body>
+</html>

@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="sk">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Futbalové fotogalérie Jakuba Šperku.">
+  <title>Jakub Šperka Photography | Futbalové fotogalérie</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="container nav-wrap">
+      <a class="brand" href="index.html" aria-label="Jakub Šperka Photography">
+        <span class="brand-main">JAKUB ŠPERKA</span>
+        <span class="brand-sub">PHOTOGRAPHY</span>
+      </a>
+
+      <nav class="nav">
+        <a href="index.html" class="active">Zápasy</a>
+        <a href="about.html">O mne</a>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+    <section class="hero-banner">
+      <div class="hero-banner-image"></div>
+      <div class="hero-banner-overlay">
+        <div class="container hero-banner-content">
+          <p class="eyebrow">Jakub Šperka · športová fotografia</p>
+          <h1>Futbal cez objektív</h1>
+          <p class="hero-text">
+            Fotogalérie zo zápasov, emócie z ihriska a momenty, ktoré trvajú iba zlomok sekundy,
+            a vášeň, ktorá postaví celú obec na nohy. Kompletné odkazy na albumy a fotogalérie
+            sú voľne prístupné pre všetkých.
+          </p>
+        </div>
+      </div>
+    </section>
+
+    <section class="container matches-section">
+      <div class="section-heading">
+        <div>
+          <p class="eyebrow">Archív fotogalérií</p>
+          <h2>Albumy zápasov</h2>
+        </div>
+      </div>
+
+      <div class="filters" aria-label="Filtrovanie zápasov">
+        <label class="filter-field">
+          <span>Sezóna</span>
+          <select id="season-filter">
+            <option value="all">Všetky sezóny</option>
+          </select>
+        </label>
+
+        <label class="filter-field">
+          <span>Tím</span>
+          <select id="team-filter">
+            <option value="all">Všetky tímy</option>
+          </select>
+        </label>
+
+        <label class="filter-field">
+          <span>Súťaž / liga</span>
+          <select id="competition-filter">
+            <option value="all">Všetky súťaže</option>
+          </select>
+        </label>
+
+        <button id="reset-filters" class="filter-reset" type="button">Vymazať filtre</button>
+      </div>
+
+      <div class="results-meta">
+        <span id="results-count"></span>
+      </div>
+
+      <div id="matches-grid" class="matches-grid"></div>
+      <p id="empty-state" class="empty-state" hidden>
+        Pre zvolenú kombináciu filtrov nie sú dostupné žiadne zápasy.
+      </p>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container footer-inner">
+      <span>Jakub Šperka Photography</span>
+      <span id="footer-year"></span>
+    </div>
+  </footer>
+
+  <script src="js/matches.js"></script>
+</body>
+</html>
