@@ -1,5 +1,18 @@
 [
   {
+    "id": "2026-09-13-tj-sokol-medzibrod-mfk-dolny-kubin",
+    "date": "2026-09-13",
+    "home": "TJ Sokol Medzibrod",
+    "away": "MFK Dolný Kubín",
+    "score": "1:1",
+    "location": "Medzibrod",
+    "competition": "III. liga SFZ",
+    "season": "2026/2027",
+    "cover": "images/covers/cover_medzibrod_dolny_kubin_1.jpg",
+    "ente": "https://embed.ente.com/?t=CQAHGZAUGR#7wAPjT3Wgv6gwH8ZZVkpx6F8JGdE97fGkPmMqw6thXS2",
+    "note": "Fotené s objektívom Sony FE 70-200 mm f/2.8 GM OSS II"
+  },
+  {
     "id": "2026-09-06-mfk-dukla-banska-bystrica-b-tj-sokol-medzibrod",
     "date": "2026-09-06",
     "home": "MFK Dukla Banská Bystrica B",
@@ -8,7 +21,7 @@
     "location": "Kremnička",
     "competition": "III. liga SFZ",
     "season": "2026/2027",
-    "cover": "images/covers/cover_dukla_B_medzibrod_1.jpg",
+    "cover": "images/covers/cover_dukla_B_medzibrod_1",
     "ente": "https://embed.ente.com/?t=CEYDRGS5ZK#EWmuFVTM8ME5SMh4FmGZetzqrDfUZ2xj3ceE7jcaX6QD",
     "note": "Fotené s objektívom Sony FE 70-200 mm f/2.8 GM OSS II"
   },
