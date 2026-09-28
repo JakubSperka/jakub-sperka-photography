@@ -1,4 +1,17 @@
 [
+    {
+    "id": "2026-09-27-tj-sokol-medzibrod-msk-rimavska-sobota",
+    "date": "2026-09-27",
+    "home": "TJ Sokol Medzibrod",
+    "away": "MŠK Rimavská Sobota",
+    "score": "2:0",
+    "location": "Medzibrod",
+    "competition": "III. liga SFZ",
+    "season": "2026/2027",
+    "cover": "images/covers/cover_medzibrod_rimavska_sobota_1.jpg",
+    "ente": "https://embed.ente.com/?t=LQYOYGBWW6#9g581B4PZbYyU6jLrEGeSsLRVVvyUXUUaLxWucEPwvjz",
+    "note": "Fotené na Sony A7R III s objektívom Sony FE 135 mm f/1.8 GM"
+  },
   {
     "id": "2026-09-13-tj-sokol-medzibrod-mfk-dolny-kubin",
     "date": "2026-09-13",
@@ -10,7 +23,7 @@
     "season": "2026/2027",
     "cover": "images/covers/cover_medzibrod_dolny_kubin_1.jpg",
     "ente": "https://embed.ente.com/?t=CQAHGZAUGR#7wAPjT3Wgv6gwH8ZZVkpx6F8JGdE97fGkPmMqw6thXS2",
-    "note": "Fotené s objektívom Sony FE 70-200 mm f/2.8 GM OSS II"
+    "note": "Fotené na Sony A6300 s objektívom Sony FE 70-200 mm f/2.8 GM OSS II"
   },
   {
     "id": "2026-09-06-mfk-dukla-banska-bystrica-b-tj-sokol-medzibrod",
@@ -23,7 +36,7 @@
     "season": "2026/2027",
     "cover": "images/covers/cover_dukla_B_medzibrod_1.jpg",
     "ente": "https://embed.ente.com/?t=CEYDRGS5ZK#EWmuFVTM8ME5SMh4FmGZetzqrDfUZ2xj3ceE7jcaX6QD",
-    "note": "Fotené s objektívom Sony FE 70-200 mm f/2.8 GM OSS II"
+    "note": "Fotené na Sony A6300 s objektívom Sony FE 70-200 mm f/2.8 GM OSS II"
   },
   {
     "id": "2026-08-30-tj-sokol-medzibrod-msk-kysucke-nove-mesto",
@@ -36,7 +49,7 @@
     "season": "2026/2027",
     "cover": "images/covers/medzibrod_kysucke_nove_mesto_1.jpg",
     "ente": "https://embed.ente.com/?t=P5LQZEMSO5#88iKT1zxgTrwk866x2tKRsqXwsEjWEUsCyACEkir5UP5",
-    "note": "Fotené s objektívom Sony FE 70-200 mm f/2.8 GM OSS II"
+    "note": "Fotené na Sony A6300 s objektívom Sony FE 70-200 mm f/2.8 GM OSS II"
   },
   {
     "id": "2026-08-16-tj-sokol-medzibrod-msk-namestovo",
@@ -49,7 +62,7 @@
     "season": "2026/2027",
     "cover": "images/covers/cover_medzibrod_namestovo_1.jpg",
     "ente": "https://embed.ente.com/?t=SZFEXPSZV7#E8zSK4dH7p7SgKbzKssmyAKt81daMTfxogUnZfbEXzfX",
-    "note": "Fotené s objektívom Sony FE 135 mm f/1.8 GM"
+    "note": "Fotené na Sony A6300 s objektívom Sony FE 135 mm f/1.8 GM"
   },
   {
     "id": "2026-08-09-fk-34-brusno-ondrej-tj-sk-hronec",
@@ -62,6 +75,6 @@
     "season": "2026/2027",
     "cover": "images/covers/cover_brusno_hronec_1.jpg",
     "ente": "https://embed.ente.com/?t=8YWRMPETWL#HWtmbdMoKt8CnU4wGKf4QeYfpVPJwRdroHetK3fEzy8i",
-    "note": "Fotené s objektívom Sony FE 135 mm f/1.8 GM"
+    "note": "Fotené na Sony A6300 s objektívom Sony FE 135 mm f/1.8 GM"
   }
 ]
