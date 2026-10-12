@@ -1,5 +1,18 @@
 [
-    {
+  {
+    "id": "2026-10-11-tj-sokol-medzibrod-ftc-filakovo",
+    "date": "2026-10-11",
+    "home": "TJ Sokol Medzibrod",
+    "away": "FTC Fiľakovo",
+    "score": "2:5",
+    "location": "Medzibrod",
+    "competition": "III. liga SFZ",
+    "season": "2026/2027",
+    "cover": "images/covers/cover_medzibrod_filakovo_1.jpg",
+    "ente": "https://embed.ente.com/?t=VGOBYQCYIU#FmiBYFTsYxNrFxeiaUckCHrwqd6y62j2wsACvGnKeyF",
+    "note": "Fotené na Sony A7R III s objektívom Sony FE 70-200 mm f/2.8 GM OSS II"
+  },
+  {
     "id": "2026-09-27-tj-sokol-medzibrod-msk-rimavska-sobota",
     "date": "2026-09-27",
     "home": "TJ Sokol Medzibrod",
